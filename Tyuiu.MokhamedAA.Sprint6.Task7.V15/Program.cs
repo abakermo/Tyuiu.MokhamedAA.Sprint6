@@ -1,3 +1,4 @@
+using Tyuiu.MokhamedAA.Sprint6.Task7.V15.Lib;
 namespace Tyuiu.MokhamedAA.Sprint6.Task7.V15
 {
     internal static class Program
